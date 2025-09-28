@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="第 1 页" id="-lMDaENOKaE5-q5ZpfYj">
+    <mxGraphModel dx="737" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-15" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-15">
+          <mxGeometry width="180" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-17" value="key1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-16">
+          <mxGeometry width="60" height="47" as="geometry">
+            <mxRectangle width="60" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-18" value="key2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-16">
+          <mxGeometry x="60" width="60" height="47" as="geometry">
+            <mxRectangle width="60" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-19" value="key3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-16">
+          <mxGeometry x="120" width="60" height="47" as="geometry">
+            <mxRectangle width="60" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-15">
+          <mxGeometry y="47" width="180" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-21" value="Value1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-20">
+          <mxGeometry width="60" height="43" as="geometry">
+            <mxRectangle width="60" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-22" value="Value2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-20">
+          <mxGeometry x="60" width="60" height="43" as="geometry">
+            <mxRectangle width="60" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-23" value="Value3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="HS-6Sr-q3Ul51RMf3aVK-20">
+          <mxGeometry x="120" width="60" height="43" as="geometry">
+            <mxRectangle width="60" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-32" value="本质上就是键值对" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="HS-6Sr-q3Ul51RMf3aVK-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="130" as="sourcePoint" />
+            <mxPoint x="270" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HS-6Sr-q3Ul51RMf3aVK-34" value="pop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
